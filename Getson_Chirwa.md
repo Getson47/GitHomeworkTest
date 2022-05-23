@@ -31,10 +31,3 @@ When you ask for help you should always say what exactly isn't work
 **Do not write:** "Git doesn't work. Can someone help me?"
 
 **Do write:** "I've tried to push my file using git but it's giving me this error XYZ. I've tried to search Google for the answer but I can't find anything. Can somebody help me?"
-
-About myself
-My name is Getson Chirwa and I currently live in Cape Town, I am an inspiring full stack developer.
-My favorite sport is football because there are many victories within football, underdogs are able to do the impossible and win trophies. In a nutshell, anything is possible if you put your mind towards it and work for it.
-My favorite food has to be my mom's cooking, been living alone for almost 7 years and I really miss my mom's cooking.
-https://youtu.be/cbn1PFvKu6U
-Each morning, I wake up on time without setting the alarm the previous night. I considered this my super power
